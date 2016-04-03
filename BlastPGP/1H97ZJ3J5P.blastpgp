@@ -1,0 +1,116 @@
+BLASTP 2.2.26 [Sep-21-2011]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for compositional score matrix adjustment: Altschul, Stephen F., 
+John C. Wootton, E. Michael Gertz, Richa Agarwala, Aleksandr Morgulis,
+Alejandro A. Schaffer, and Yi-Kuo Yu (2005) "Protein database searches
+using compositionally adjusted substitution matrices", FEBS J. 272:5101-5109.
+
+
+Reference for composition-based statistics starting in round 2:
+Schaffer, Alejandro A., L. Aravind, Thomas L. Madden,
+Sergei Shavirin, John L. Spouge, Yuri I. Wolf,  
+Eugene V. Koonin, and Stephen F. Altschul (2001), 
+"Improving the accuracy of PSI-BLAST protein database searches with 
+composition-based statistics and other refinements",  Nucleic Acids Res. 29:2994-3005.
+
+Query= 
+         (5 letters)
+
+Database: uniref90.fasta 
+           40,253,516 sequences; 13,556,848,365 total letters
+
+Searchingdone
+
+
+
+ ***** No hits found ******
+
+Searchingdone
+
+
+
+ ***** No hits found ******
+
+  Database: uniref90.fasta
+    Posted date:  Mar 1, 2016  2:34 PM
+  Number of letters in database: 999,999,538
+  Number of sequences in database:  2,602,571
+  
+  Database: /home/mio/Desktop/uniref_90/uniref90.fasta.01
+    Posted date:  Mar 1, 2016  2:36 PM
+  Number of letters in database: 999,998,500
+  Number of sequences in database:  2,365,435
+  
+  Database: /home/mio/Desktop/uniref_90/uniref90.fasta.02
+    Posted date:  Mar 1, 2016  2:37 PM
+  Number of letters in database: 999,999,816
+  Number of sequences in database:  2,478,377
+  
+  Database: /home/mio/Desktop/uniref_90/uniref90.fasta.03
+    Posted date:  Mar 1, 2016  2:39 PM
+  Number of letters in database: 999,999,936
+  Number of sequences in database:  2,874,012
+  
+  Database: /home/mio/Desktop/uniref_90/uniref90.fasta.04
+    Posted date:  Mar 1, 2016  2:41 PM
+  Number of letters in database: 999,999,516
+  Number of sequences in database:  3,386,135
+  
+  Database: /home/mio/Desktop/uniref_90/uniref90.fasta.05
+    Posted date:  Mar 1, 2016  2:44 PM
+  Number of letters in database: 999,999,691
+  Number of sequences in database:  3,345,820
+  
+  Database: /home/mio/Desktop/uniref_90/uniref90.fasta.06
+    Posted date:  Mar 1, 2016  2:46 PM
+  Number of letters in database: 999,999,794
+  Number of sequences in database:  3,333,121
+  
+  Database: /home/mio/Desktop/uniref_90/uniref90.fasta.07
+    Posted date:  Mar 1, 2016  2:48 PM
+  Number of letters in database: 999,999,961
+  Number of sequences in database:  3,323,726
+  
+  Database: /home/mio/Desktop/uniref_90/uniref90.fasta.08
+    Posted date:  Mar 1, 2016  2:50 PM
+  Number of letters in database: 999,999,995
+  Number of sequences in database:  3,314,676
+  
+  Database: /home/mio/Desktop/uniref_90/uniref90.fasta.09
+    Posted date:  Mar 1, 2016  2:52 PM
+  Number of letters in database: 1,000,000,000
+  Number of sequences in database:  3,235,810
+  
+  Database: /home/mio/Desktop/uniref_90/uniref90.fasta.10
+    Posted date:  Mar 1, 2016  2:54 PM
+  Number of letters in database: 999,999,854
+  Number of sequences in database:  2,841,309
+  
+  Database: /home/mio/Desktop/uniref_90/uniref90.fasta.11
+    Posted date:  Mar 1, 2016  2:56 PM
+  Number of letters in database: 999,999,986
+  Number of sequences in database:  2,888,057
+  
+  Database: /home/mio/Desktop/uniref_90/uniref90.fasta.12
+    Posted date:  Mar 1, 2016  2:58 PM
+  Number of letters in database: 999,999,947
+  Number of sequences in database:  2,764,331
+  
+  Database: /home/mio/Desktop/uniref_90/uniref90.fasta.13
+    Posted date:  Mar 1, 2016  2:59 PM
+  Number of letters in database: 556,851,831
+  Number of sequences in database:  1,500,136
+  
+Lambda     K      H
+   0.300   0.0852    0.175 
+
+Lambda     K      H
+   0.267   0.0410    0.140 
+
